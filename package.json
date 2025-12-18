@@ -1,5 +1,5 @@
 {
-  "name": "nest-deployment",
+  "name": "nest-ci-cd-docker-deploy",
   "version": "1.0.0",
   "private": true,
   "author": "Ahmed Saleem Shaikh",
